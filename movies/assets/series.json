@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "series_id": 1,
+            "title": "Placeholder 1",
+            "year": 1922,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "img_url": "https:\/\/funnypicture.org\/wallpaper\/2015\/03\/funny-weird-pics-20-desktop-wallpaper.jpg"
+        },
+        {
+            "series_id": 2,
+            "title": "Placeholder 2",
+            "year": 1987,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "img_url": "https:\/\/cinemazworld.com\/wp-content\/uploads\/2020\/07\/British-Web-Series-On-Netflix-Sherlock-1.jpg"
+        },
+        {
+            "series_id": 3,
+            "title": "Placeholder 3",
+            "year": 2002,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "img_url": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/7a\/The_Mentalist_-_The_Complete_2nd_Season.jpg"
+        },
+        {
+            "series_id": 4,
+            "title": "Placeholder 4",
+            "year": 1902,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "img_url": "https:\/\/commons.wikimedia.org\/wiki\/Category:Film_stills#\/media\/File:Babies_eggs.jpg"
+        },
+        {
+            "series_id": 5,
+            "title": "hi",
+            "year": 2000,
+            "description": "lorem ipsum",
+            "img_url": "https:\/\/tryonarts.org\/wp-content\/uploads\/2017\/01\/Film-Strip-1.png"
+        },
+        {
+            "series_id": 6,
+            "title": "hi2",
+            "year": 2000,
+            "description": "lorem ipsum",
+            "img_url": "https:\/\/funnypicture.org\/wallpaper\/2015\/03\/funny-weird-pics-20-desktop-wallpaper.jpg"
+        }
+    ]
+}

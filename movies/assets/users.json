@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "email": "l9z49i@inf.elte.hu",
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "id": 2,
+            "email": "required@all.com",
+            "username": "randomguy",
+            "password": "asd"
+        },
+        {
+            "id": 3,
+            "email": "hello@gmail.com",
+            "username": "asd",
+            "password": "asd"
+        },
+        {
+            "id": 4,
+            "email": "viktoriaballa@protonmail.com",
+            "username": "viki",
+            "password": "jelszo"
+        }
+    ]
+}

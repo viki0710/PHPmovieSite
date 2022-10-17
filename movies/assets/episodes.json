@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "episode_id": 1,
+            "series_id": 1,
+            "title": "cow",
+            "date": "December 4th",
+            "description": "The cow is walking down the street",
+            "rating": 4.2
+        },
+        {
+            "episode_id": 2,
+            "series_id": 1,
+            "title": "Hello World",
+            "date": "December 11th",
+            "description": "somebody wakes up in the middle of space",
+            "rating": 1
+        },
+        {
+            "episode_id": 1,
+            "series_id": 2,
+            "title": "Hello and Bye",
+            "date": "May 7th",
+            "description": "Good bye bald man",
+            "rating": 8.9
+        },
+        {
+            "episode_id": 2,
+            "series_id": 2,
+            "title": "Bald man is back",
+            "date": "June 1st",
+            "description": "The bald man is back!",
+            "rating": 10
+        },
+        {
+            "episode_id": 3,
+            "series_id": 2,
+            "title": "YET ANOTHER TITLE",
+            "date": "who cares about the date?",
+            "description": "hello how are you?",
+            "rating": 0.1
+        },
+        {
+            "episode_id": 3,
+            "series_id": 1,
+            "title": "One more Chance!!",
+            "date": "December 1st",
+            "description": "GIVE ME ONE MORE CHANCE! I NEED TO FIX THIS BUG!",
+            "rating": 7
+        },
+        {
+            "episode_id": 4,
+            "series_id": 2,
+            "title": "Sleepy Time",
+            "date": "May 28",
+            "description": "Its sleepy time",
+            "rating": 6
+        },
+        {
+            "episode_id": 1,
+            "series_id": 3,
+            "title": "The First Episod\u00ede",
+            "date": "September 24th",
+            "description": "This is the first Episod\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ed\u00ede.",
+            "rating": 10
+        },
+        {
+            "episode_id": 4,
+            "series_id": 1,
+            "title": "viki",
+            "date": "December 6th",
+            "description": "Viki likes cake!",
+            "rating": 7.1
+        },
+        {
+            "episode_id": 5,
+            "series_id": 2,
+            "title": "hello",
+            "date": "December 10th",
+            "description": "hello again!",
+            "rating": 10
+        }
+    ]
+}
